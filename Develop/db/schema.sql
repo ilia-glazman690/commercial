@@ -1,5 +1,3 @@
--- schema.sql
-
 -- Create the database
 CREATE DATABASE ecommerce_db;
 
